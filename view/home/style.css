@@ -1,0 +1,40 @@
+*{
+    text-decoration: 0;
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+
+body{
+    background: #002244;
+}
+
+nav{    
+    display: flex;
+    justify-content: space-around;
+    padding-top: 4rem;
+}
+
+.container{
+    background: #7CB9E8;
+    margin: 10%;
+}
+
+.home{
+    background: #7CB9E8;
+    padding: 2rem;
+    border-radius: 20px;
+}
+
+.cliente{
+    background: #7CB9E8;
+    padding: 2rem;
+    border-radius: 20px;
+}
+
+.produto{
+    background: #7CB9E8;
+    padding: 2rem;
+    border-radius: 20px;
+}
